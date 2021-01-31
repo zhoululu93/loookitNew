@@ -1,0 +1,14 @@
+[
+      {
+            "relation": [
+                  "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                  "namespace": "android_app",
+                  "package_name": "com.pkutech_jp.smh.twa",
+                  "sha256_cert_fingerprints": [
+                        "63:C1:6B:D6:8F:47:3A:36:5F:AD:A4:FD:3F:52:BD:34:56:D0:DB:5E:56:7B:67:6A:AF:37:D2:0B:1F:7D:FB:8E"
+                  ]
+            }
+      }
+]
